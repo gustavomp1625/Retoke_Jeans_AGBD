@@ -1,4 +1,4 @@
-#!/home/etec/Documentos/proyecto-gustavo-retoke/.venv/bin/python3
+#!/home/etec/Documentos/Retoke_Jeans_AGBD/.venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
